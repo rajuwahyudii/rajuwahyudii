@@ -39,7 +39,7 @@
 </p>
 
 
-### ANYWAYS, Thanks for coming and STAY OUT OF THE BOX
+### Anyways, Thanks for coming and STAY OUT OF THE BOX
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://www.futurebiz.de/wp-content/uploads/2019/05/Publishing-auf-LinkedIn-1.png" width="40" height="30"/></a>
