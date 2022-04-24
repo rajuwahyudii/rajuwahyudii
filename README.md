@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   ## 🔥 Languages:
 
 <p align="left"> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" alt="express" width="44" height="44"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="express" width="44" height="66"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
