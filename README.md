@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hallo guys
+
+<img src="https://media2.giphy.com/media/KGdKKipVBu9vO5hKkb/giphy.gif" width="1000" height="300" />
 
 <h2>RAJU WAHYUDI PRATAMA🙏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... PT. Sahabat Professional Indonesia
 - 🌱 I’m currently learning ... react.js
@@ -36,6 +37,9 @@ Here are some ideas to get you started:
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
+
+
+### ANYWAYS, Thanks for coming and STAY OUT OF THE BOX
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src=""/></a>
