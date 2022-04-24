@@ -42,7 +42,7 @@
 ### ANYWAYS, Thanks for coming and STAY OUT OF THE BOX
 
 <p align="center">
-<a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src=""/></a>
-<a href="mailto:rajuwahyudi842@gmail.com"><img src=""/></a>
-<a href="https://www.instagram.com/rajuwp/"><img src=""/></a>
+<a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://www.futurebiz.de/wp-content/uploads/2019/05/Publishing-auf-LinkedIn-1.png" width="40" height="30"/></a>
+<a href="mailto:rajuwahyudi842@gmail.com"><img src="https://cdn.antaranews.com/cache/800x533/2019/03/13/gmail2019.png" width="40" height="30"/ ></a>
+<a href="https://www.instagram.com/rajuwp/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="30" height="30"/></a>
 
