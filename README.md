@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src=""/></a>
 <a href="mailto:rajuwahyudi842@gmail.com"><img src=""/></a>
-<a href="https://https://www.instagram.com/rajuwp/"><img src=""/></a>
+<a href="https://www.instagram.com/rajuwp/"><img src=""/></a>
 
