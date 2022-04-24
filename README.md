@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ## 🔥 Languages:
 
 <p align="left"> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="express" width="80" height="44"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img src="https://teknojurnal.com/wp-content/uploads/2016/10/Kelebihan-Bahasa-Pemrograman-Dart-Banner.jpg" alt="express" width="80" height="44"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
      <a href="https://www.php.net/" target="_blank"> <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" alt="express" width="48" height="48"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
