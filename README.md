@@ -1,5 +1,3 @@
-### Hallo guys
-
 <img src="https://media2.giphy.com/media/KGdKKipVBu9vO5hKkb/giphy.gif" width="1000" height="300" />
 
 <h2>RAJU WAHYUDI PRATAMA🙏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
