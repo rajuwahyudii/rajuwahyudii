@@ -43,7 +43,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/> </a>
      <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" alt="express" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-Mysql-3E6E93?logo=mysql&logoColor=white&style=flat"/> </a>  
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-Mysql-3E6E93?logo=mysql&logoColor=white&style=flat"/> </a> 
+         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.shields.io/badge/CSS-%23777BB4.svg?logo=CSS&logoColor=3260E0" alt="express" /> </a>
 </p>
 
 
