@@ -6,7 +6,9 @@
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
-
+ - 🌱 I’m currently learning React JS and Go Lang
+ - 💬 Ask me about Anything
+ - 📫 How to reach me: click social media icon in bottom
 <!-- - 🔭 I’m currently working on ... PT. Sahabat Professional Indonesia
 - 🌱 I’m currently learning ... react.js
 - 👯 I’m looking to collaborate on ... react.js
