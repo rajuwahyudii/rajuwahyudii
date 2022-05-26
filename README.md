@@ -60,7 +60,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" alt="express" /> </a>
 </p>
 
-### Anyways, Thanks for coming and STAY OUT OF THE BOX
+### Contact me 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a>
