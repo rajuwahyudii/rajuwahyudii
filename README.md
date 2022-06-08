@@ -60,10 +60,11 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" alt="express" /> </a>
 </p>
 
-### Contact me 
+### Social Media
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a>
 <a href="mailto:rajuwahyudi842@gmail.com"><img src="https://img.shields.io/badge/-Rajuwahyudi842@gmail.com-F62100?logo=gmail&logoColor=white&style=flat" / ></a>
 <a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Instagram-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Youtube-202020?logo=youtube&logoColor=FF0000&style=flat" /></a>
 
