@@ -65,7 +65,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a>
 <a href="mailto:rajuwahyudi842@gmail.com"><img src="https://img.shields.io/badge/-Rajuwahyudi842@gmail.com-F62100?logo=gmail&logoColor=white&style=flat" / ></a>
-<a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Instagram-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
+<a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Rajuwp-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
   <a href="https://www.instagram.com/techid.developer/?hl=en"><img src="https://img.shields.io/badge/-TechIdDeveloper-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
 <a href="https://www.youtube.com/channel/UCGlZvAy2-v6M9VtbKsIqjGA"><img src="https://img.shields.io/badge/-Youtube-202020?logo=youtube&logoColor=FF0000&style=flat" /></a>
   <a href="https://www.fiverr.com/techid_develope?up_rollout=true"><img src="https://img.shields.io/badge/-Fiverr-FFFFFF?logo=fiverr&logoColor=1DBF73&style=flat" /></a>
