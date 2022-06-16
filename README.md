@@ -41,32 +41,56 @@
 
 ##  Programming Languages:
 
-<p align="left"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,js,php,python,mysql,css" />
+  </a>
+</p>
+
+<!-- <p align="left"> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.shields.io/badge/-Dart-1C2834?logo=dart&logoColor=white&style=flat" alt="express" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/> </a>
      <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" alt="express" /> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-Mysql-3E6E93?logo=mysql&logoColor=white&style=flat"/> </a> 
          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank"> <img src="https://img.shields.io/badge/CSS-%23777BB4.svg?logo=CSS&logoColor=3260E0" alt="express" /> </a>
-</p>
+</p> -->
 
 
 ##  Frameworks and library:
-<p align="left">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
+  </a>
+</p>
+<!-- <p align="left">
  <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/-Laravel-F9322C?logo=laravel&logoColor=white&style=flat" alt="express"/> </a>
  <a href="https://flutter.dev/?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKXwKjR0vU64iadxalBejDmLOZnbvgzqUFAiZRnsUtvJ31gq-l254kaAjnPEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.shields.io/badge/-Flutter-5BC8F8?logo=flutter&logoColor=white&style=flat" alt="express" /> </a>
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind-38BDF8?logo=tailwindcss&logoColor=white&style=flat" alt="express" /> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/-Bootstrap-8012FA?logo=bootstrap&logoColor=white&style=flat" alt="express" /> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" alt="express" /> </a>
-</p>
+</p> -->
 
 ### Social Media
 
 <p align="center">
-<a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="https://www.instagram.com/rajuwp/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/techid.developer/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<p align="center">
+<!-- <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a> -->
 <a href="mailto:rajuwahyudi842@gmail.com"><img src="https://img.shields.io/badge/-Rajuwahyudi842@gmail.com-F62100?logo=gmail&logoColor=white&style=flat" / ></a>
-<a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Rajuwp-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
-  <a href="https://www.instagram.com/techid.developer/?hl=en"><img src="https://img.shields.io/badge/-TechIdDeveloper-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
+<!-- <a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Rajuwp-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
+  <a href="https://www.instagram.com/techid.developer/?hl=en"><img src="https://img.shields.io/badge/-TechIdDeveloper-C434A1?logo=instagram&logoColor=white&style=flat" /></a> -->
 <a href="https://www.youtube.com/channel/UCGlZvAy2-v6M9VtbKsIqjGA"><img src="https://img.shields.io/badge/-Youtube-202020?logo=youtube&logoColor=FF0000&style=flat" /></a>
   <a href="https://www.fiverr.com/techidn"><img src="https://img.shields.io/badge/-Fiverr-FFFFFF?logo=fiverr&logoColor=1DBF73&style=flat" /></a>
 
