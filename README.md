@@ -73,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
 <!-- <p align="left">
