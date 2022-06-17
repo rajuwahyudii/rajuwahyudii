@@ -63,14 +63,17 @@
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" />
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
+  <a href="https://flutter.dev/?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKXwKjR0vU64iadxalBejDmLOZnbvgzqUFAiZRnsUtvJ31gq-l254kaAjnPEALw_wcB&gclsrc=aw.ds">
+    <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" />
   </a>
 </p>
 <!-- <p align="left">
