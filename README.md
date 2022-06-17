@@ -76,13 +76,6 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
-<!-- <p align="left">
- <a href="https://laravel.com/" target="_blank"> <img src="https://img.shields.io/badge/-Laravel-F9322C?logo=laravel&logoColor=white&style=flat" alt="express"/> </a>
- <a href="https://flutter.dev/?gclid=Cj0KCQjw6pOTBhCTARIsAHF23fKXwKjR0vU64iadxalBejDmLOZnbvgzqUFAiZRnsUtvJ31gq-l254kaAjnPEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.shields.io/badge/-Flutter-5BC8F8?logo=flutter&logoColor=white&style=flat" alt="express" /> </a>
- <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind-38BDF8?logo=tailwindcss&logoColor=white&style=flat" alt="express" /> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/-Bootstrap-8012FA?logo=bootstrap&logoColor=white&style=flat" alt="express" /> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" alt="express" /> </a>
-</p> -->
 
 ### Social Media
 
