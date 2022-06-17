@@ -60,7 +60,16 @@
 ##  Frameworks and library:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
+  </a>
+  <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=laravel,flutter,tailwind,bootstrap,react" />
   </a>
 </p>
