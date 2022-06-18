@@ -3,8 +3,6 @@
   </head>
 <h2>Hai... I'm RAJU WAHYUDI PRATAMA🙏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<img src="https://media2.giphy.com/media/KGdKKipVBu9vO5hKkb/giphy.gif" width="1000" height="300" />
-
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
  - 🌱 I’m currently learning React JS and Go Lang
