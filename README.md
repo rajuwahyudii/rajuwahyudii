@@ -1,7 +1,7 @@
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
   </head>
-<h2>Hai... I'm RAJU WAHYUDI PRATAMA🙏 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2 align = center >Hai... I'm RAJU WAHYUDI PRATAMA🙏 </h2>
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
@@ -18,7 +18,11 @@
 - ⚡ Fun fact: ...  -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwhytm&layout=compact)](https://github.com/rwhytm/github-readme-stats)
+<div align = center> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwhytm&layout=compact)](https://github.com/rwhytm/github-readme-stats)
+  
+
 
 
 
