@@ -42,8 +42,22 @@
 ##  Programming Languages:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,js,php,python,mysql,css" />
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js," />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a><a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id">
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
 </p>
 
