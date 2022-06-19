@@ -46,25 +46,30 @@
 🌙 Night      27 commits     ██████░░░░░░░░░░░░░░░░░░░   24.11%
 ```
 
-##  Programming Languages:
+##  Skills:
 
 <p align="center">
-  <a href="https://dart.dev/">
-    <img src="https://skillicons.dev/icons?i=dart" />
-  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  </a><a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://www.php.net/">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
-  </a><a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id">
-    <img src="https://skillicons.dev/icons?i=css" />
+  
+  <a href="https://dart.dev/">
+    <img src="https://skillicons.dev/icons?i=dart" />
   </a>
 </p>
 
