@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-<!-- <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a> -->
+<!-- <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACXgat0BvsPjYyIjDKEE7nY1i0yJ6A2sC1s"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a> -->
 <a href="mailto:rajuwahyudi842@gmail.com"><img src="https://img.shields.io/badge/-Rajuwahyudi842@gmail.com-F62100?logo=gmail&logoColor=white&style=flat" / ></a>
 <!-- <a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Rajuwp-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
   <a href="https://www.instagram.com/techid.developer/?hl=en"><img src="https://img.shields.io/badge/-TechIdDeveloper-C434A1?logo=instagram&logoColor=white&style=flat" /></a> -->
