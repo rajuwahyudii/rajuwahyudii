@@ -3,8 +3,6 @@
   </head>
 <h2 align = center >Hai... I'm RAJU WAHYUDI PRATAMA🙏 </h2>
 
-<img src="https://c.tenor.com/O3wVsHxbh68AAAAC/killjoy-valorant.gif" width="1000">
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
