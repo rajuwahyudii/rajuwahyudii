@@ -56,9 +56,11 @@
   </a>
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" />
-  
   <a href="https://dart.dev/">
     <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" />
   </a>
 </p>
 
@@ -79,6 +81,9 @@
   <a href="https://reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
 </p>
 
 ### Social Media
@@ -87,7 +92,7 @@
   <a href="https://www.instagram.com/rajuwp/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/raju-wahyudi-739995158/">
+  <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/techid.developer/?hl=en">
