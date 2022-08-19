@@ -95,9 +95,6 @@
   <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/techid.developer/?hl=en">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 <p align="center">
