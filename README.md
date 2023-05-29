@@ -4,23 +4,6 @@
 <h2 align = center >Hai... I'm RAJU WAHYUDI PRATAMA🙏 </h2>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
-
- - 🌱 I’m currently learning React JS and Go Lang
- - 💬 Ask me about Anything
- - 📫 How to reach me: click social media icon in bottom
-<!-- - 🔭 I’m currently working on ... PT. Sahabat Professional Indonesia
-- 🌱 I’m currently learning ... react.js
-- 👯 I’m looking to collaborate on ... react.js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...  -->
-
-
 <div align = center> 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=compact)](https://github.com/rwhytm/github-readme-stats)
