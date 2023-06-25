@@ -1,16 +1,24 @@
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-  </head>
-<h2 align = center >Hai... I'm RAJU WAHYUDI PRATAMA🙏 </h2>
+    
+<img align="right" alt="Coding" width="600" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
+
+  ```html
+name: "Raju Wahyudi Pratama"
+age: 23
+hobby: "football and sleep"
+
+  ```
+
+  
+
 
 
 <div align = center> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=compact)](https://github.com/rwhytm/github-readme-stats)
   
 
-<div style="display: flex;">
-<div align="center">
+<div align="left">
 <h2 align="left">Languages</h2>
   <div align="start">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -21,9 +29,6 @@
   </a>
   <a href="https://www.w3schools.com/html/">
     <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://www.php.net/">
     <img src="https://skillicons.dev/icons?i=php" />
@@ -36,13 +41,32 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=typescript" />
   </a>
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=golang" />
+  </a>
   </div>
 </div>
 
 
+
+<!--databases-->
+<h2 align="left">Databases</h2>
+<div align="start">
+  <a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://firebase.google.com/">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</div>
+
+
+
+
+<!--Framework & libraries-->
 <div class="column">
-  <h2>Framework & Libraries</h2>
-  <div>
+  <h2 align=left>Framework & Libraries</h2>
+  <div align=left>
     
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
@@ -62,48 +86,49 @@
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
-  <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=golang" />
+  <a href="https://https://expressjs.com//">
+    <img src="https://skillicons.dev/icons?i=express" />
   </a>
   </div>
 </div>
-
-  
 </div>
 
-
-
-
-
-
-         
 
 
 
 <!--Social Media-->
 <div>
-<h2>Social Media</h2>
+<h2 align=left>Social Media</h2>
+  <div align=left>
   <a href="https://www.instagram.com/rajuwp/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="rajuwahyudipratama.com">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  </div>
+</div>  
 
-  
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div align=center>
+  <a href="https://github.com/rwhytm/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=pie" />
+  </a>
+  <a href="https://github.com/rwhytm/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rajuwahyudii&rank_icon=github" />
+  </a>   
 </div>
-
-
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a> -->
-<a href="mailto:rajuwahyudi842@gmail.com"><img src="https://img.shields.io/badge/-Rajuwahyudi842@gmail.com-F62100?logo=gmail&logoColor=white&style=flat" / ></a>
-<!-- <a href="https://www.instagram.com/rajuwp/"><img src="https://img.shields.io/badge/-Rajuwp-C434A1?logo=instagram&logoColor=white&style=flat" /></a>
-  <a href="https://www.instagram.com/techid.developer/?hl=en"><img src="https://img.shields.io/badge/-TechIdDeveloper-C434A1?logo=instagram&logoColor=white&style=flat" /></a> -->
-<a href="https://www.youtube.com/channel/UCGlZvAy2-v6M9VtbKsIqjGA"><img src="https://img.shields.io/badge/-Youtube-202020?logo=youtube&logoColor=FF0000&style=flat" /></a>
-  <a href="https://www.fiverr.com/techidn"><img src="https://img.shields.io/badge/-Fiverr-FFFFFF?logo=fiverr&logoColor=1DBF73&style=flat" /></a>
   
   
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajuwahyudii&show_icons=true&theme=radical)
 
 
