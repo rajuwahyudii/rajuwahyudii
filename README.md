@@ -125,7 +125,7 @@ hobby: "football and sleep"
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=pie" />
   </a>
   <a href="https://github.com/rwhytm/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=rajuwahyudii&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rajuwahyudii&rank_icon=github" />
   </a>   
 </div>
   
