@@ -9,19 +9,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=compact)](https://github.com/rwhytm/github-readme-stats)
   
 
-
-
-
-
-
-
-
-         
-
-##  Skills:
-
-<p align="center">
-  
+<div style="display: flex;">
+<div align="center">
+<h2 align="left">Languages</h2>
+  <div align="start">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
@@ -31,7 +22,7 @@
   <a href="https://www.w3schools.com/html/">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  </a><a href="https://www.mysql.com/">
+  <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
   <a href="https://www.php.net/">
@@ -45,10 +36,14 @@
   <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=typescript" />
   </a>
-</p>
+  </div>
+</div>
 
 
-<p align="center">
+<div class="column">
+  <h2>Framework & Libraries</h2>
+  <div>
+    
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
@@ -67,18 +62,37 @@
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
-</p>
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=golang" />
+  </a>
+  </div>
+</div>
 
-### Social Media
+  
+</div>
 
-<p align="center">
+
+
+
+
+
+         
+
+
+
+<!--Social Media-->
+<div>
+<h2>Social Media</h2>
   <a href="https://www.instagram.com/rajuwp/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+
+  
+</div>
+
 
 <p align="center">
 <!-- <a href="https://www.linkedin.com/in/raju-wahyudi-pratama-739995158/"><img src="https://img.shields.io/badge/-Linked%20in-0073B1?logo=linkedin&logoColor=white&style=flat" /></a> -->
