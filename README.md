@@ -119,7 +119,7 @@ hobby: "football and sleep"
 <br/>
 <br/>
 
-<!--
+
 <div align=center>
   <a href="https://github.com/rwhytm/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=pie" />
@@ -129,5 +129,5 @@ hobby: "football and sleep"
   </a>   
 </div>
   
--->
+
 
