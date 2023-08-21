@@ -120,14 +120,6 @@ hobby: "football and sleep"
 <br/>
 
 
-<div align=center>
-  <a href="https://github.com/rwhytm/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajuwahyudii&layout=pie" />
-  </a>
-  <a href="https://github.com/rwhytm/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rajuwahyudii&rank_icon=github" />
-  </a>   
-</div>
   
 
 
