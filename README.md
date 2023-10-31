@@ -58,6 +58,12 @@ hobby: "football and sleep"
   <a href="https://firebase.google.com/">
   <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
+<a href="https://redis.io/">
+  <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+<a href="https://www.mongodb.com/docs/">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </div>
 
 
