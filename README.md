@@ -33,8 +33,8 @@ hobby: "football and sleep"
   <a href="https://www.php.net/">
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
+<!--   <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" /> -->
   <a href="https://dart.dev/">
     <img src="https://skillicons.dev/icons?i=dart" />
   </a>
@@ -92,9 +92,9 @@ hobby: "football and sleep"
   <a href="https://nextjs.org/">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
-  <a href="https://https://expressjs.com//">
+<!--   <a href="https://https://expressjs.com//">
     <img src="https://skillicons.dev/icons?i=express" />
-  </a>
+  </a> -->
   </div>
 </div>
 </div>
